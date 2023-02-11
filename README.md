@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emretemirdev&label=Profile%20views&color=0e75b6&style=flat" alt="emretemirdev" /> </p>
-
+<p href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cle0g2xiw00060fjndlc1b0s9/stats?cursusId=9&coalitionId=piscine" alt="emtemir's 42 stats" /></p>
 <p align="left"> <a href="https://twitter.com/emretemirr" target="blank"><img src="https://img.shields.io/twitter/follow/emretemirr?logo=twitter&style=for-the-badge" alt="emretemirr" /></a> </p>
 
 - 🌱 I’m currently learning **c**
