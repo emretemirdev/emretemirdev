@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emretemirdev&label=Profile%20views&color=0e75b6&style=flat" alt="emretemirdev" /> </p>
-<img src="https://badge42.vercel.app/api/v2/cle0g2xiw00060fjndlc1b0s9/stats?cursusId=21&coalitionId=198" alt="emtemir's 42 stats" /> </a>
+<a href="https://github.com/Coday-meric/badge42"><img src="https://badge42.coday.fr/api/v2/clsjde1b0167001p434xkvb6s/stats?cursusId=21&coalitionId=366" alt="emtemir's 42 stats" /></a>
+</a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emretemirdev&show_icons=true&locale=en" alt="emretemirdev" /></p>
 
 
