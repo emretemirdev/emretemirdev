@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Embedded System**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **c && c++**
 
